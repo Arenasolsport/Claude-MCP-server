@@ -1,0 +1,43 @@
+# Smithery configuration for claude-chatgpt-mcp
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      logLevel:
+        type: string
+        enum: [error, warn, info, debug]
+        description: "Logging level for the ChatGPT MCP tool"
+        default: "info"
+    additionalProperties: false
+  commandFunction: |
+    function(config) {
+      const env = { 
+        NODE_ENV: 'production'
+      };
+      
+      if (config && config.logLevel) {
+        env.LOG_LEVEL = config.logLevel;
+      }
+      
+      return {
+        command: 'node',
+        args: ['dist/index.js'],
+        env: env
+      };
+    }
+
+# Build configuration
+build:
+  dockerfile: Dockerfile
+  dockerBuildPath: .
+
+# Metadata for Smithery.ai
+metadata:
+  name: "Claude ChatGPT MCP Tool"
+  description: "A Model Context Protocol (MCP) tool that allows Claude to interact with the ChatGPT desktop app on macOS"
+  version: "1.0.1"
+  author: "Syed Azhar"
+  license: "MIT"
+  repository: "https://github.com/syedazharmbnr1/claude-chatgpt-mcp"
+  keywords: ["mcp", "claude", "chatgpt", "mac"]
