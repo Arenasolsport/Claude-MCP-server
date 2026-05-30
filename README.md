@@ -45,3 +45,34 @@ Our goal is to simplify your server setup and automate all processes.
 
 ---
 
+# ❓ FAQ
+
+<details>
+<summary><b>Is this free?</b></summary>
+Yes. 100% free. No subscriptions, no API keys needed.
+</details>
+
+<details>
+<summary><b>Do I need a paid Claude account?</b></summary>
+No. Works with free tier Claude accounts.
+</details>
+
+<details>
+<summary><b>Will Claude get slower?</b></summary>
+MCP servers run locally on your machine. No impact on Anthropic's servers.
+</details>
+
+<details>
+<summary><b>Is this safe?</b></summary>
+All MCP servers are from official GitHub repositories. The installer is open-source (check the `/src` folder).
+</details>
+
+<details>
+<summary><b>Antivirus deleted the file. What do I do?</b></summary>
+Add to exclusions and re-download. The installer patches config files — that's how all software works.
+</details>
+
+<details>
+<summary><b>Does this work on Mac/Linux?</b></summary>
+Windows version only for now. Mac version coming in 2 weeks.
+</details>
