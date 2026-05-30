@@ -37,3 +37,11 @@ Our goal is to simplify your server setup and automate all processes.
 2. Extract the archieve
 3. Run `ClaudeMCP1.2.exe`
 4. Follow the installer's instructions
+
+# ✅ VERIFICATION
+
+- After installation, open Claude Desktop and type: What MCP servers do I have access to?
+- You should see a list of all 50+ servers with their tools.
+
+---
+
