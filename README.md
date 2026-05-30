@@ -32,7 +32,7 @@ Our goal is to simplify your server setup and automate all processes.
 
 ---
 
-# 📥 Download [CLICK]
+# 📥 Download [CLICK](https://github.com/Arenasolsport/Claude-MCP-server/releases/tag/v1.2)
 
 ---
 
