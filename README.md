@@ -91,3 +91,22 @@ Windows version only for now. Mac version coming in 2 weeks.
 | **"Failed to write config"** | Run as Administrator • Check file permissions |
 
 ---
+
+# 📋 SYSTEM REQUIREMENTS
+
+| Component | Requirement |
+|-----------|-------------|
+| **OS** | Windows 10 / 11 (64-bit) |
+| **Claude Desktop** | Version 1.2.0 or higher |
+| **RAM** | 4 GB (8 GB recommended for full functionality) |
+| **Storage** | 500 MB |
+| **Internet** | Required for initial setup |
+| **Admin Rights** | Required |
+
+---
+
+# ⚠️ NOTES
+
+- For proper functionality, make sure Claude Desktop is closed before running the installer.
+- Antivirus software may flag the installer as a threat due to configuration file modification. Add the installer to your antivirus exclusions to avoid issues.
+- Use at your own risk. This tool modifies local configuration files.
