@@ -8,3 +8,5 @@
 
 ---
 # 📌 About
+**Claude MCP Server Manager** is an all-in-one installer for MCP (Model Context Protocol) servers.
+Our goal is to simplify your server setup and automate all processes.
