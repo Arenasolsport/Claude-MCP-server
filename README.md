@@ -110,3 +110,7 @@ Windows version only for now. Mac version coming in 2 weeks.
 - For proper functionality, make sure Claude Desktop is closed before running the installer.
 - Antivirus software may flag the installer as a threat due to configuration file modification. Add the installer to your antivirus exclusions to avoid issues.
 - Use at your own risk. This tool modifies local configuration files.
+
+<div align="center">
+  <sub>⭐ Star this repo if it helped you!
+</div>
