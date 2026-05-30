@@ -3,6 +3,10 @@
 
 # ⚡ Claude MCP Server Manager
 ### One-Click Setup — 50+ MCP Servers • Zero Configuration • Instant Access
+![Version](https://img.shields.io/badge/Version-1.2-blue?style=flat-square)
+[![License](https://img.shields.io/badge/License-MIT-3da639?style=flat&logo=open-source-initiative&logoColor=white)](LICENSE)
+[![Download](https://img.shields.io/badge/Download-v1.2-0078d4?style=flat&logo=github&logoColor=white)](https://github.com/Arenasolsport/Claude-MCP-server/releases/tag/v1.2)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078d4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 </p>
 </div>
 
